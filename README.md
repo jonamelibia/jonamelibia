@@ -1,4 +1,4 @@
-# This is Jon Amelibia Renovales! 🤓
+# This is Jon Amelibia! 🤓
 
 Currently working as data scientist. I´m interested in all kind of potential machine learning / artificial intelligence applications in several areas such as finance, industry and sports. I consider myself a tech and finance enthusiast, trying keep in touch with the latest news in order to find new opportunities.
 
